@@ -77,3 +77,10 @@ fun main(args:Array<String>){
   println()
   plusMany(1,2,3)
 }
+
+
+// 08. 제어 흐름
+fun main(args:Array<String>){
+  val a : Int = 5
+  val b : Int = 10
+//
