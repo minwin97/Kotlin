@@ -276,7 +276,7 @@ fun main(array:Array<String>){
 
 
 
-// 08. 제어 흐름 A // control_flow
+// 08. 제어 흐름 A // control_flow - if
 
 // if, else, else if
 fun main(args: Array<String>) {
@@ -350,7 +350,7 @@ fun main(args: Array<String>) {
 
 
 
-// 10. 제어흐름2
+// 10. 제어흐름2 - 
 // When
 fun main(args: Array<String>) {
     val value: Int = 3
